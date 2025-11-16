@@ -8,19 +8,6 @@
 
 ## 📖 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaishShinde&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=FF006E" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=FF006E&fire=FF006E&currStreakLabel=FF006E" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaishShinde&theme=radical" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaishShinde&theme=radical" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaishShinde&theme=radical" height="180em" />
-</div>
 
 - 👨🏼‍💻 **Software Development Engineer** passionate about building scalable AI systems and innovative solutions.
 - 🎓 **M.S. in Computer Science and Engineering** @ Santa Clara University (Expected Dec 2025) | **B.E. in Information Technology** @ University of Mumbai
@@ -127,11 +114,11 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true&area=true" height="250" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaishShinde&theme=redical&hide_border=true&area=true" height="250" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFF" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaishShinde&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFF" height="200" />
 </div>
 
 ---
