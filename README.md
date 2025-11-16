@@ -109,27 +109,6 @@
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
 </div>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaishShinde&theme=redical&hide_border=true&area=true" height="250" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaishShinde&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFF" height="200" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaishShinde&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4" />
-</div>
-
----
 
 ### 📫 Connect with Me
 
