@@ -9,17 +9,17 @@
 ## 📖 About Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=FF006E" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaishShinde&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=FF006E" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=FF006E&fire=FF006E&currStreakLabel=FF006E" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaishShinde&theme=radical" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaishShinde&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaishShinde&theme=radical" height="180em" />
 </div>
 
 - 👨🏼‍💻 **Software Development Engineer** passionate about building scalable AI systems and innovative solutions.
@@ -139,7 +139,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaishShinde&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4" />
 </div>
 
 ---
@@ -171,7 +171,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF006E&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SaishShinde&color=FF006E&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
